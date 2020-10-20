@@ -1,2 +1,2 @@
-# Famouse-Conv-Archi.-on-MNIST
+# Famous-Conv-Archi.-on-MNIST
 AlexNet
