@@ -1,2 +1,3 @@
 # Famous-Conv-Archi.-on-MNIST
-LeNet, ResNet for now
+
+#titre Implementation of famous and state of the art convolutional architectures
